@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hola a tod@s! 👋 Este es mi perfil
 
-<!--
-**CamilaF1985/CamilaF1985** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑 Mi nombre es Camila Fabbroni, soy desarrolladora Full Stack Junior. 
 
-Here are some ideas to get you started:
+🖥️ Perfil Full Stack, experiencia en desarrollo tanto en Front como en Back End.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Habilidades
+
+- Lenguajes de programación/herramientas que manejo:
+  - ☕ Java
+  - 📜 Javascript
+  - 🐍 Python
+  - 🌐 HTML/CSS
+
+- Frameworks empleados en proyectos:
+  - ⚛️ React.js
+  - 🍃 Spring Framework
+  - 🅱️ Bootstrap
+
+🔭 Actualmente desempeñándome como asistente académico en 4Geeks Academy.
+
+📫 Correo electrónico: camila.fabbroni1985@gmail.com
+🔗 LinkedIn: [camila-fabbroni-arrasate](https://www.linkedin.com/in/camila-fabbroni-arrasate/)
