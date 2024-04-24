@@ -21,4 +21,4 @@
 
 📫 Correo electrónico: camila.fabbroni1985@gmail.com
 🔗 LinkedIn: [camila-fabbroni-arrasate](https://www.linkedin.com/in/camila-fabbroni-arrasate/)
-GitHub 🐙: [CamilaF1985](enlace a tu perfil de GitHub)
+GitHub 🐙: [CamilaF1985](https://github.com/CamilaF1985)
